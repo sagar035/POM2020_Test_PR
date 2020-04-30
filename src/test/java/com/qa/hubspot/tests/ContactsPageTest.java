@@ -1,5 +1,5 @@
 package com.qa.hubspot.tests;
 
-public class LoginPage {
+public class ContactsPageTest {
 
 }
